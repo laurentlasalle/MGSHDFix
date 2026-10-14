@@ -80,7 +80,7 @@ constexpr CaptionOverride kMGS2CaptionTypoFixes[] =
     { 0x16df023d, "La navaja ten\303\255a la palabra \"Spetsnaz\"\nescrita por todas partes...\n" },
     { 0xdd2bd3fc, "La SOCOM dura pi\303\271 di 6.000 colpi,\n" },
     { 0x77675018, "La tua SOCOM \303\250 provvista di silenziatore.\n" },
-    { 0x1153ec43, "Le mot Spetsnaz \303\251tait grav\303\251\nsur son couteau de scout...\n" },
+    { , "Le mot Spetsnaz \303\251tait grav\303\251\nsur son couteau de scout...\n" },
     { 0xba250561, "LG Connecting Bridge" },
     { 0xdfae0f46, "Meryl and Gurlukovich were a team. Sure I was\nshocked, but I managed to escape the holds. \nThe enemies are right behind me. I must first \nget out of Deck 2 here. Maybe if I go back to \nthe engine room there is a way out.\n" },
     { 0xb6fb14ab, "Modalit\303\240 Arma Livello SOCOM 01\n" },
@@ -676,9 +676,6 @@ constexpr CaptionOverride kMGS2CaptionTypoFixes[] =
     { 0xff9402d0, "Laisse-moi lui parler !\n" },
     { 0xffad9669, "Laisse-moi passer !\nJ'ai \303\240 lui parler !\n" },
     { 0xfffd6929, "N'oublie pas de t'en occuper.\n" },
-    { 0x1153ec43, "Le mot Spetsnaz \303\251tait grav\303\251\nsur son couteau de scout...\n" },
-    { 0x8467a1f2, "Olga Gurlukovich... La fille du Colonel\nSergei Gurlukovich, ex-GRU et ancien\ncommandant des Spetsnaz...\n" },
-    { 0xb890009e, "Spetsnaz ? Ce sont les op\303\251rateurs\nsp\303\251ciaux du GRU sovi\303\251tique. Elle est\nrusse... ?\n" },
 
 
                      // ajustement majuscules avec accents, overdose de point d'exclamations, et retrait des espaces avec les ! et ?
@@ -3499,10 +3496,6 @@ constexpr CaptionOverride kMGS2CaptionTypoFixes[] =
     { 0xffad9669, "Laisse-moi passer!\nJ'ai \303\240 lui parler!\n" },
     { 0xffd8262e, "Liquid!!\n" },
     { 0xfffd6929, "N'oublie pas de t'en occuper.\n" },
-
-    { 0x1153ec43, "Le mot Spetsnaz \303\251tait grav\303\251\nsur son couteau de scout...\n" },
-    { 0x8467a1f2, "Olga Gurlukovich... La fille du Colonel\nSergei Gurlukovich, ex-GRU et ancien\ncommandant des Spetsnaz...\n" },
-    { 0xb890009e, "Spetsnaz? Ce sont les op\303\251rateurs\nsp\303\251ciaux du GRU sovi\303\251tique. Elle est\nrusse...?\n" },
 
 
 };
