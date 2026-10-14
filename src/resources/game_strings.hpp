@@ -676,9 +676,6 @@ constexpr CaptionOverride kMGS2CaptionTypoFixes[] =
     { 0xff9402d0, "Laisse-moi lui parler !\n" },
     { 0xffad9669, "Laisse-moi passer !\nJ'ai \303\240 lui parler !\n" },
     { 0xfffd6929, "N'oublie pas de t'en occuper.\n" },
-    { 0x1153ec43, "Le mot Spetsnaz \303\251tait grav\303\251\nsur son couteau de scout...\n" },
-    { 0x8467a1f2, "Olga Gurlukovich... La fille du Colonel\nSergei Gurlukovich, ex-GRU et ancien\ncommandant des Spetsnaz...\n" },
-    { 0xb890009e, "Spetsnaz ? Ce sont les op\303\251rateurs\nsp\303\251ciaux du GRU sovi\303\251tique. Elle est\nrusse... ?\n" },
 
 
 };
